@@ -83,6 +83,6 @@ if(opcion >= 1 && opcion <= 5){
         }
     }
 }else{
-    alert("ERROR. Digita los numeros que estan en pantalla.");
+    alert("ERROR. Digita los numeros no letras Bobogrande.");
 }
 
